@@ -6,6 +6,8 @@
 
 > This is an example of a Crawlee project.
 
+[![IT Man - Tech #27 - Crawlee is a web scraping and browser automation library [Vietnamese]](https://i.ytimg.com/vi/nrgiOh5HfnU/hqdefault.jpg)](https://www.youtube.com/watch?v=nrgiOh5HfnU)
+
 ## Install
 
 ```sh
