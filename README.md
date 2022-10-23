@@ -45,6 +45,13 @@ If you're looking for examples or want to learn more visit:
 - [Documentation](https://crawlee.dev/api/playwright-crawler/class/PlaywrightCrawler)
 - [Examples](https://crawlee.dev/docs/examples/playwright-crawler)
 
+## Useful references
+
+- [Running in Docker](https://crawlee.dev/docs/guides/docker-images)
+- [Avoid getting blocked](https://crawlee.dev/docs/guides/avoid-blocking)
+- [Proxy Management](https://crawlee.dev/docs/guides/proxy-management)
+- [Getting some real-world data](https://crawlee.dev/docs/introduction/real-world-project)
+
 ## Author
 
 - Website: https://productsway.com/
