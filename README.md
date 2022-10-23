@@ -20,6 +20,16 @@ yarn install
 yarn start
 ```
 
+## [Running headful browsers](https://crawlee.dev/docs/introduction/setting-up)
+
+Default is running with headless browser so you can uncomment the following on development phase.
+
+```typescript
+// src/main.ts
+// Uncomment this option to see the browser window.
+headless: false;
+```
+
 ## Run tests
 
 ```sh
