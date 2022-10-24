@@ -40,7 +40,7 @@
   resolved "https://registry.yarnpkg.com/@apify/timeout/-/timeout-0.3.0.tgz#73819a877649e274a6cc2a574bbe3f4586b078b5"
   integrity sha512-jLwg4vC1hHsU1UWbwO5suYFGPBANPy5Dovc6P9y56TZ1B2RsRYjfDaX3BdfaAa6E2akib19EinF9EjuN13m5AA==
 
-"@apify/tsconfig@^0.1.0":
+"@apify/tsconfig@0.1.0":
   version "0.1.0"
   resolved "https://registry.yarnpkg.com/@apify/tsconfig/-/tsconfig-0.1.0.tgz#c3d2169d54ab06190721ae329cafe941af83f3c5"
   integrity sha512-ba9Y6AMocRucO3AVTb6GM2V+oy1wByNlCDzamK+IC+aqU3pCgJwSN87uNu6iEgu+uetsqYvVbXJYakwiQO1LGA==
@@ -783,7 +783,7 @@ content-type@^1.0.4:
   resolved "https://registry.yarnpkg.com/content-type/-/content-type-1.0.4.tgz#e138cc75e040c727b1966fe5e5f8c9aee256fe3b"
   integrity sha512-hIP3EEPs8tB9AT1L+NUqtwOAps4mk2Zob89MWXMHjHWg9milF/j4osnnQLXBCBFBk/tvIG/tUc9mOUJiPBhPXA==
 
-crawlee@^3.1.0:
+crawlee@3.1.0:
   version "3.1.0"
   resolved "https://registry.yarnpkg.com/crawlee/-/crawlee-3.1.0.tgz#148469c1f1cb70411382420fb57963ed574022d1"
   integrity sha512-Z1yvIYDj5lQsYA0WSGrbuEQNcK5qI0CI2e1uT6hpJ0KkXsV5eNyZEu6PJ0PHJ4RbvHvRWrBn3+p49cvatWU4/g==
@@ -2101,7 +2101,7 @@ playwright-core@1.27.1:
   resolved "https://registry.yarnpkg.com/playwright-core/-/playwright-core-1.27.1.tgz#840ef662e55a3ed759d8b5d3d00a5f885a7184f4"
   integrity sha512-9EmeXDncC2Pmp/z+teoVYlvmPWUC6ejSSYZUln7YaP89Z6lpAaiaAnqroUt/BoLo8tn7WYShcfaCh+xofZa44Q==
 
-playwright@*:
+playwright@1.27.1:
   version "1.27.1"
   resolved "https://registry.yarnpkg.com/playwright/-/playwright-1.27.1.tgz#4eecac5899566c589d4220ca8acc16abe8a67450"
   integrity sha512-xXYZ7m36yTtC+oFgqH0eTgullGztKSRMb4yuwLPl8IYSmgBM88QiB+3IWb1mRIC9/NNwcgbG0RwtFlg+EAFQHQ==
@@ -2526,7 +2526,7 @@ tslib@^2.1.0, tslib@^2.3.1, tslib@^2.4.0:
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.4.0.tgz#7cecaa7f073ce680a05847aa77be941098f36dc3"
   integrity sha512-d6xOpEDfsi2CZVlPQzGeux8XMwLT9hssAsaPYExaQMuYskwb+x1x7J371tWlbBdWHroy99KnVB6qIkUbs5X3UQ==
 
-tsup@^6.3.0:
+tsup@6.3.0:
   version "6.3.0"
   resolved "https://registry.yarnpkg.com/tsup/-/tsup-6.3.0.tgz#aa270a788e54248d4a5541f722c8763bca778e3c"
   integrity sha512-IaNQO/o1rFgadLhNonVKNCT2cks+vvnWX3DnL8sB87lBDqRvJXHENr5lSPJlqwplUlDxSwZK8dSg87rgBu6Emw==
@@ -2574,7 +2574,7 @@ type-fest@^3.0.0:
   resolved "https://registry.yarnpkg.com/type-fest/-/type-fest-3.1.0.tgz#157b74044d9c27fd796b9c6aa46eae6658b1e9b8"
   integrity sha512-StmrZmK3eD9mDF9Vt7UhqthrDSk66O9iYl5t5a0TSoVkHjl0XZx/xuc/BRz4urAXXGHOY5OLsE0RdJFIApSFmw==
 
-typescript@^4.8.4:
+typescript@4.8.4:
   version "4.8.4"
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.8.4.tgz#c464abca159669597be5f96b8943500b238e60e6"
   integrity sha512-QCh+85mCy+h0IGff8r5XWzOVSbBO+KfeYrMQh7NJ58QujwcE22u+NUSmUxqF+un70P9GXKxa2HCNiTTMJknyjQ==
