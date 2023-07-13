@@ -4,7 +4,7 @@
     "type": "module",
     "description": "This is an example of a Crawlee project.",
     "dependencies": {
-        "crawlee": "3.4.0",
+        "crawlee": "3.4.1",
         "playwright": "1.36.0"
     },
     "devDependencies": {
