@@ -5,13 +5,13 @@
     "description": "This is an example of a Crawlee project.",
     "dependencies": {
         "crawlee": "3.8.2",
-        "playwright": "1.42.1"
+        "playwright": "1.43.0"
     },
     "devDependencies": {
         "@apify/tsconfig": "0.1.0",
         "tsup": "8.0.2",
         "tsx": "4.7.2",
-        "typescript": "5.4.3"
+        "typescript": "5.4.4"
     },
     "scripts": {
         "start": "npm run start:dev",
