@@ -4,8 +4,8 @@
     "type": "module",
     "description": "This is an example of a Crawlee project.",
     "dependencies": {
-        "crawlee": "3.10.0",
-        "playwright": "1.44.0"
+        "crawlee": "3.10.1",
+        "playwright": "1.44.1"
     },
     "devDependencies": {
         "@apify/tsconfig": "0.1.0",
