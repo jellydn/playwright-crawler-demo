@@ -4,14 +4,14 @@
     "type": "module",
     "description": "This is an example of a Crawlee project.",
     "dependencies": {
-        "crawlee": "3.10.5",
-        "playwright": "1.45.0"
+        "crawlee": "3.11.0",
+        "playwright": "1.45.1"
     },
     "devDependencies": {
         "@apify/tsconfig": "0.1.0",
         "tsup": "8.1.0",
-        "tsx": "4.16.0",
-        "typescript": "5.5.2"
+        "tsx": "4.16.2",
+        "typescript": "5.5.3"
     },
     "scripts": {
         "start": "npm run start:dev",
