@@ -1379,7 +1379,7 @@ event-stream@3.3.4:
     stream-combiner "~0.0.4"
     through "~2.3.1"
 
-execa@^5.0.0:
+execa@^5.1.1:
   version "5.1.1"
   resolved "https://registry.yarnpkg.com/execa/-/execa-5.1.1.tgz#f80ad9cbf4298f7bd1d4c9555c21e93741c411dd"
   integrity sha512-8uSpZZocAZRBAPIEINJj3Lo9HyGitllczc27Eh5YYojjMFMn8yHMDMaUHE2Jqfq05D/wucwI4JGURyXt1vchyg==
@@ -1582,7 +1582,7 @@ glob@^10.3.10:
     package-json-from-dist "^1.0.0"
     path-scurry "^1.11.1"
 
-globby@^11.0.3:
+globby@^11.1.0:
   version "11.1.0"
   resolved "https://registry.yarnpkg.com/globby/-/globby-11.1.0.tgz#bd4be98bb042f83d796f7e3811991fbe82a0d34b"
   integrity sha512-jhIXaOzy1sb8IyocaruWSn1TjmnBVs8Ayhcy83rmxNJ8q2uWKCAj3CnJY+KpGSXCueAPc0i05kVvVKtP1t9S3g==
@@ -2876,10 +2876,10 @@ tslib@^2.1.0, tslib@^2.3.1, tslib@^2.4.0, tslib@^2.6.2:
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.6.3.tgz#0438f810ad7a9edcde7a241c3d80db693c8cbfe0"
   integrity sha512-xNvxJEOUiWPGhUuUdQgAJPKOOJfGnIyKySOc09XkKsgdUV/3E2zvwZYdejjmRgPCgcym1juLH3226yA7sEFJKQ==
 
-tsup@8.1.2:
-  version "8.1.2"
-  resolved "https://registry.yarnpkg.com/tsup/-/tsup-8.1.2.tgz#e4b274b391e51262bcddb24092576a7759bd33d1"
-  integrity sha512-Gzw/PXSX/z0aYMNmkcI54bKKFVFJQbLne+EqTJZeQ3lNT3QpumjtMU4rl+ZwTTp8oRF3ahMbEAxT2sZPJLFSrg==
+tsup@8.2.0:
+  version "8.2.0"
+  resolved "https://registry.yarnpkg.com/tsup/-/tsup-8.2.0.tgz#2a855ee581283488616523c3dedc7fd89cfed7de"
+  integrity sha512-XoarnVlfXxbv8ODHtxUq8D2XPc9luX+pamnp1kHSKLknKCDcX0Rkc21NHdbpugH6hKoNiETXypKKVgVu46vVRg==
   dependencies:
     bundle-require "^5.0.0"
     cac "^6.7.14"
@@ -2887,8 +2887,8 @@ tsup@8.1.2:
     consola "^3.2.3"
     debug "^4.3.5"
     esbuild "^0.23.0"
-    execa "^5.0.0"
-    globby "^11.0.3"
+    execa "^5.1.1"
+    globby "^11.1.0"
     joycon "^3.1.1"
     postcss-load-config "^6.0.1"
     resolve-from "^5.0.0"
