@@ -63,10 +63,10 @@
     "@csstools/css-tokenizer" "^3.0.3"
     lru-cache "^10.4.3"
 
-"@borewit/text-codec@^0.1.0":
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/@borewit/text-codec/-/text-codec-0.1.1.tgz#7e7f27092473d5eabcffef693a849f2cc48431da"
-  integrity sha512-5L/uBxmjaCIX5h8Z+uu+kA9BQLkc/Wl06UGR5ajNRxu+/XjonB5i8JpgFMrPj3LXTCPA0pv8yxUvbUi+QthGGA==
+"@borewit/text-codec@^0.2.1":
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/@borewit/text-codec/-/text-codec-0.2.1.tgz#5d171538907a8cb395fdc2eb5e8f7947d96c7f2f"
+  integrity sha512-k7vvKPbf7J2fZ5klGRD9AeKfUvojuZIQ3BT5u7Jfv+puwXkUBUT5PVyMDfJZpy30CBDXGMgw7fguK/lpOMBvgw==
 
 "@crawlee/basic@3.15.3":
   version "3.15.3"
@@ -878,9 +878,9 @@ callsites@^4.0.0:
   integrity sha512-kfzR4zzQtAE9PC7CzZsjl3aBNbXWuXiSeOCdLcPpBfGW8YuCqQHcRPFDbr/BPVmd3EEPVpuFzLyuT/cUhPr4OQ==
 
 caniuse-lite@^1.0.30001759:
-  version "1.0.30001761"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001761.tgz#4ca4c6e3792b24e8e2214baa568fc0e43de28191"
-  integrity sha512-JF9ptu1vP2coz98+5051jZ4PwQgd2ni8A+gYSN7EA7dPKIMf0pDlSUxhdmVOaV3/fYK5uWBkgSXJaRLr4+3A6g==
+  version "1.0.30001762"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001762.tgz#e4dbfeda63d33258cdde93e53af2023a13ba27d4"
+  integrity sha512-PxZwGNvH7Ak8WX5iXzoK1KPZttBXNPuaOvI2ZYU7NrlM+d9Ov+TUvlLOBNGzVXAntMSMMlJPd+jY6ovrVjSmUw==
 
 chalk@^1.1.1:
   version "1.1.3"
@@ -1275,21 +1275,21 @@ find-up@^4.0.0:
     locate-path "^5.0.0"
     path-exists "^4.0.0"
 
-fingerprint-generator@^2.1.68, fingerprint-generator@^2.1.78:
-  version "2.1.78"
-  resolved "https://registry.yarnpkg.com/fingerprint-generator/-/fingerprint-generator-2.1.78.tgz#1653e6b223932f809ae1cffad612bc4348607e6e"
-  integrity sha512-IsmMGYXSmh4F70ltWXMHjd454GKBYHdLm/QjCn0gWhMqkotLVhgbMHxtRq+l1IYIapteC+HZEVDAYSzj2Gs+4Q==
+fingerprint-generator@^2.1.68, fingerprint-generator@^2.1.79:
+  version "2.1.79"
+  resolved "https://registry.yarnpkg.com/fingerprint-generator/-/fingerprint-generator-2.1.79.tgz#523d262706ceaa0082f7a68cdf0e9779d38a0d49"
+  integrity sha512-0dr3kTgvRYHleRPp6OBDcPb8amJmOyFr9aOuwnpN6ooWJ5XyT+/aL/SZ6CU4ZrEtzV26EyJ2Lg7PT32a0NdrRA==
   dependencies:
-    generative-bayesian-network "^2.1.78"
-    header-generator "^2.1.78"
+    generative-bayesian-network "^2.1.79"
+    header-generator "^2.1.79"
     tslib "^2.4.0"
 
 fingerprint-injector@^2.1.68:
-  version "2.1.78"
-  resolved "https://registry.yarnpkg.com/fingerprint-injector/-/fingerprint-injector-2.1.78.tgz#b2fba5ea3134f705e7a191211aec2d4082fc3ed2"
-  integrity sha512-KY9tcqNrUO+Ri4PI8lcVyJSlD7Dr7kFdeVxqA+kbupAqW+bTmB5NKS2VHqjezOlzRbnb3EGwmYwcSjdppi+i3g==
+  version "2.1.79"
+  resolved "https://registry.yarnpkg.com/fingerprint-injector/-/fingerprint-injector-2.1.79.tgz#35bbbdc8bffded88bba42675f0f9e88b05253eab"
+  integrity sha512-0tKb3wCQ92ZlLLbxRfhoduCI+rIgpsUdb3Jp66TrwoMlSeVDlmoBZfkQW4FheQFau1kg0lIg4Zk4xetBubetQQ==
   dependencies:
-    fingerprint-generator "^2.1.78"
+    fingerprint-generator "^2.1.79"
     tslib "^2.4.0"
 
 fix-dts-default-cjs-exports@^1.0.0:
@@ -1330,10 +1330,10 @@ fsevents@~2.3.2, fsevents@~2.3.3:
   resolved "https://registry.yarnpkg.com/fsevents/-/fsevents-2.3.3.tgz#cac6407785d03675a2a5e1a5305c697b347d90d6"
   integrity sha512-5xoDfX+fL7faATnagmWPpbFtwh/R77WmMMqqHGS65C3vvB0YHrgF+B1YmZ3441tMj5n63k0212XNoJwzlhffQw==
 
-generative-bayesian-network@^2.1.78:
-  version "2.1.78"
-  resolved "https://registry.yarnpkg.com/generative-bayesian-network/-/generative-bayesian-network-2.1.78.tgz#b65fa7af9f4be9c21e6fd91fdec46d645ba756c0"
-  integrity sha512-c9EFbWfqkWEy4Rux23PI+QEn768VQq/au83OAst4XLs+qOR3YjmN3Jx0faMuOy1VnSS10hh49+1mOAzDiUPKbQ==
+generative-bayesian-network@^2.1.79:
+  version "2.1.79"
+  resolved "https://registry.yarnpkg.com/generative-bayesian-network/-/generative-bayesian-network-2.1.79.tgz#9ce5af943353fe95d5370f92f68377d94ecef9c5"
+  integrity sha512-aPH+V2wO+HE0BUX1LbsM8Ak99gmV43lgh+D7GDteM0zgnPqiAwcK9JZPxMPZa3aJUleFtFaL1lAei8g9zNrDIA==
   dependencies:
     adm-zip "^0.5.9"
     tslib "^2.4.0"
@@ -1359,9 +1359,9 @@ get-tsconfig@^4.7.5:
     resolve-pkg-maps "^1.0.0"
 
 got-scraping@^4.0.0, got-scraping@^4.0.3:
-  version "4.1.2"
-  resolved "https://registry.yarnpkg.com/got-scraping/-/got-scraping-4.1.2.tgz#4887bfb6b5f54ddc7a2b97bb703682795c5948ca"
-  integrity sha512-LtVwPM5YLnNY7HVT/AK/yDBUg/4yOZSlAjjug2ovrHQseS43QCmO1XosKKXcXrfc6OMX8OnDbAWIauFMcaJ5TQ==
+  version "4.1.3"
+  resolved "https://registry.yarnpkg.com/got-scraping/-/got-scraping-4.1.3.tgz#4ad080404238b1ff512e4a08bb40baab129963dc"
+  integrity sha512-PTXcxbuWg631hbRNZRa7p0JKCTLDVAy5AMbJtrxkiNHLVb9Fkn5ghOELaxjNXU5axrriPhEhV4/N/omhaOWJeg==
   dependencies:
     got "^14.2.1"
     header-generator "^2.1.41"
@@ -1372,9 +1372,9 @@ got-scraping@^4.0.0, got-scraping@^4.0.3:
     tslib "^2.6.2"
 
 got@^14.2.1:
-  version "14.6.5"
-  resolved "https://registry.yarnpkg.com/got/-/got-14.6.5.tgz#9a8d2b46abf29c9f3bf5179bda94fd8509f97220"
-  integrity sha512-Su87c0NNeg97de1sO02gy9I8EmE7DCJ1gzcFLcgGpYeq2PnLg4xz73MWrp6HjqbSsjb6Glf4UBDW6JNyZA6uSg==
+  version "14.6.6"
+  resolved "https://registry.yarnpkg.com/got/-/got-14.6.6.tgz#5adf7f576f89de8e291fd782e8b277f9bcc8e6c0"
+  integrity sha512-QLV1qeYSo5l13mQzWgP/y0LbMr5Plr5fJilgAIwgnwseproEbtNym8xpLsDzeZ6MWXgNE6kdWGBjdh3zT/Qerg==
   dependencies:
     "@sindresorhus/is" "^7.0.1"
     byte-counter "^0.1.0"
@@ -1406,13 +1406,13 @@ has-flag@^4.0.0:
   resolved "https://registry.yarnpkg.com/has-flag/-/has-flag-4.0.0.tgz#944771fd9c81c81265c4d6941860da06bb59479b"
   integrity sha512-EykJT/Q1KjTWctppgIAgfSO0tKVuZUjhgMr17kqTumMl6Afv3EISleU7qZUzoXDFTAHTDC4NOoG/ZxU3EvlMPQ==
 
-header-generator@^2.1.41, header-generator@^2.1.78:
-  version "2.1.78"
-  resolved "https://registry.yarnpkg.com/header-generator/-/header-generator-2.1.78.tgz#1b498ded6287136fa339ffd4e53423c1d6848b77"
-  integrity sha512-SB3tPpdYPh1wOAj/st8GGezIxUNx4COvKfWCZX87ehcnoQRJVZMNzhY93CxG4U8mP0UxrtUm1bmVT4mQ0oXdjA==
+header-generator@^2.1.41, header-generator@^2.1.79:
+  version "2.1.79"
+  resolved "https://registry.yarnpkg.com/header-generator/-/header-generator-2.1.79.tgz#124518dc55708a2a454195ab1bd24ba0a7ff5a90"
+  integrity sha512-YvHx8teq4QmV5mz7wdPMsj9n1OZBPnZxA4QE+EOrtx7xbmGvd1gBvDNKCb5XqS4GR/TL75MU5hqMqqqANdILRg==
   dependencies:
     browserslist "^4.21.1"
-    generative-bayesian-network "^2.1.78"
+    generative-bayesian-network "^2.1.79"
     ow "^0.28.1"
     tslib "^2.4.0"
 
@@ -1850,9 +1850,9 @@ node-releases@^2.0.27:
   integrity sha512-nmh3lCkYZ3grZvqcCH+fjmQ7X+H0OeZgP40OierEaAptX4XofMh5kwNbWh7lBduUzCcV/8kZ+NDLCwm2iorIlA==
 
 normalize-url@^8.1.0:
-  version "8.1.0"
-  resolved "https://registry.yarnpkg.com/normalize-url/-/normalize-url-8.1.0.tgz#d33504f67970decf612946fd4880bc8c0983486d"
-  integrity sha512-X06Mfd/5aKsRHc0O0J5CUedwnPmnDtLF2+nq+KN9KSDlJHkPuh0JUviWjEWMe0SW/9TDdSLVPuk7L5gGTIA1/w==
+  version "8.1.1"
+  resolved "https://registry.yarnpkg.com/normalize-url/-/normalize-url-8.1.1.tgz#751a20c8520e5725404c06015fea21d7567f25ef"
+  integrity sha512-JYc0DPlpGWB40kH5g07gGTrYuMqV653k3uBKY6uITPWds3M0ov3GaWGp9lbE3Bzngx8+XkfzgvASb9vk9JDFXQ==
 
 nth-check@^2.0.1:
   version "2.1.1"
@@ -2401,11 +2401,11 @@ tldts@^7.0.0, tldts@^7.0.5:
     tldts-core "^7.0.19"
 
 token-types@^6.0.0:
-  version "6.1.1"
-  resolved "https://registry.yarnpkg.com/token-types/-/token-types-6.1.1.tgz#85bd0ada82939b9178ecd5285881a538c4c00fdd"
-  integrity sha512-kh9LVIWH5CnL63Ipf0jhlBIy0UsrMj/NJDfpsy1SqOXlLKEVyXXYrnFxFT1yOOYVGBSApeVnjPw/sBz5BfEjAQ==
+  version "6.1.2"
+  resolved "https://registry.yarnpkg.com/token-types/-/token-types-6.1.2.tgz#18d0fd59b996d421f9f83914d6101c201bd08129"
+  integrity sha512-dRXchy+C0IgK8WPC6xvCHFRIWYUbqqdEIKPaKo/AcTUNzwLTK6AH7RjdLWsEZcAN/TBdtfUw3PYEgPr5VPr6ww==
   dependencies:
-    "@borewit/text-codec" "^0.1.0"
+    "@borewit/text-codec" "^0.2.1"
     "@tokenizer/token" "^0.3.0"
     ieee754 "^1.2.1"
 
