@@ -2,22 +2,22 @@
 # yarn lockfile v1
 
 
-"@apify/consts@^2.20.0", "@apify/consts@^2.50.0":
-  version "2.50.0"
-  resolved "https://registry.yarnpkg.com/@apify/consts/-/consts-2.50.0.tgz#3d4944e0cbf74bed93efdc0a6343a8475776d2ae"
-  integrity sha512-a7SqvlOcxSfUb3bnj6nW2nv296llM5hto49xC+VT511ppX4Fo3i9FEKURFi8WiTImEIQL1sJfqsJr9zzjpXlIg==
+"@apify/consts@^2.20.0", "@apify/consts@^2.51.0":
+  version "2.51.0"
+  resolved "https://registry.yarnpkg.com/@apify/consts/-/consts-2.51.0.tgz#500ebbb51c3b5f4bec5009a7c67ad4bb04a78668"
+  integrity sha512-pW9VxTP0H99Gn8JAk2DUdXynASja0vaB2JH8pmF8JbE7WThV21+p7KLPf5EwZ5gAgaw9OY/qDx0slI4iENgyjQ==
 
 "@apify/datastructures@^2.0.0":
   version "2.0.3"
   resolved "https://registry.yarnpkg.com/@apify/datastructures/-/datastructures-2.0.3.tgz#9995b4784c711e277271a0f79c88742231b27442"
   integrity sha512-E6yQyc/XZDqJopbaGmhzZXMJqwGf96ELtDANZa0t68jcOAJZS+pF7YUfQOLszXq6JQAdnRvTH2caotL6urX7HA==
 
-"@apify/log@^2.4.0", "@apify/log@^2.5.31":
-  version "2.5.31"
-  resolved "https://registry.yarnpkg.com/@apify/log/-/log-2.5.31.tgz#2760ddadcea510bd87084adf126e6f178fe65ad1"
-  integrity sha512-Gzs0BDGybdL5sbJpYZqziQrmUGhKM+Pdf34fHXKEW7P+SlE7sRPjoKKVmDbjdHiWEaC5RHMTM7Q7ibTvYtFCRQ==
+"@apify/log@^2.4.0", "@apify/log@^2.5.32":
+  version "2.5.32"
+  resolved "https://registry.yarnpkg.com/@apify/log/-/log-2.5.32.tgz#fa8e3b95cab4eba9c9b03f35743bf0694858bc24"
+  integrity sha512-4ojuqfsV3WCvqajcZUgHcln5bses0nz4MnnRR5i+If1jywSH2gRxYVNVHxKP5yesNx9I5v6iT498nYSpDlUqog==
   dependencies:
-    "@apify/consts" "^2.50.0"
+    "@apify/consts" "^2.51.0"
     ansi-colors "^4.1.1"
 
 "@apify/ps-tree@^1.2.0":
@@ -28,11 +28,11 @@
     event-stream "3.3.4"
 
 "@apify/pseudo_url@^2.0.30":
-  version "2.0.72"
-  resolved "https://registry.yarnpkg.com/@apify/pseudo_url/-/pseudo_url-2.0.72.tgz#d95c74219024e75561ec34306bf0cc027b9dbf35"
-  integrity sha512-EBMZA9t6L62+VGz/UD1MAgIrmpRADxKa5wHgnTFTDngZtxu1+JVlj2ImJeSPRAI8KQblL1TE+qlWfaap2kqzuA==
+  version "2.0.73"
+  resolved "https://registry.yarnpkg.com/@apify/pseudo_url/-/pseudo_url-2.0.73.tgz#32f58ad1a256c762aa8465947bc0a6a0964fcf71"
+  integrity sha512-ckX7vTzIVPNnv5KbaPFHqEhCKO1KxLkqBB6QCDEp8b2Y1lA4jNRqCAJIgGOqvnjItSCke+Dn558ACzMjAx994A==
   dependencies:
-    "@apify/log" "^2.5.31"
+    "@apify/log" "^2.5.32"
 
 "@apify/timeout@^0.3.0", "@apify/timeout@^0.3.1":
   version "0.3.2"
@@ -45,12 +45,12 @@
   integrity sha512-cS7mwN2UW1UXcluGXRDHH0Vr2VsSLkw2DwLTwoSBkcJSe8fvCr3MPryTSq0uod4MashpMURxJ7CsLKxs82VmOQ==
 
 "@apify/utilities@^2.7.10":
-  version "2.25.3"
-  resolved "https://registry.yarnpkg.com/@apify/utilities/-/utilities-2.25.3.tgz#a5e6a1f8a1f411ba6856cc09a9d38797d6664a64"
-  integrity sha512-A2M3kXitwDYS3Hb2fgAEUEv44dnfjLsf6UTzm1RGjURZIN9EHiph1v0EeJG1Pit6MPFW/QHSuU0Sj2JeHZysag==
+  version "2.25.4"
+  resolved "https://registry.yarnpkg.com/@apify/utilities/-/utilities-2.25.4.tgz#075c8c625a35a1cb4de1cf64e389849f5c73b3ed"
+  integrity sha512-UvFM37FG2pLcVe1clXhdbks5Y8eSyx7LKmIc4Cx/JYpaet5RCV1OD9URoDyihp9RqD0TCs2dPOPIaXUknpg1rg==
   dependencies:
-    "@apify/consts" "^2.50.0"
-    "@apify/log" "^2.5.31"
+    "@apify/consts" "^2.51.0"
+    "@apify/log" "^2.5.32"
 
 "@asamuzakjp/css-color@^3.2.0":
   version "3.2.0"
@@ -714,9 +714,9 @@
     parse5 "^7.0.0"
 
 "@types/node@*":
-  version "25.2.2"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-25.2.2.tgz#0ddfe326c326afcb3422d32bfe5eb2938e1cb5db"
-  integrity sha512-BkmoP5/FhRYek5izySdkOneRyXYN35I860MFAGupTdebyE66uZaR+bXLHq8k4DirE5DwQi3NuhvRU1jqTVwUrQ==
+  version "25.2.3"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-25.2.3.tgz#9c18245be768bdb4ce631566c7da303a5c99a7f8"
+  integrity sha512-m0jEgYlYz+mDJZ2+F4v8D1AyQb+QzsNqRuI7xg1VQX/KlKS0qT9r1Mo16yo5F/MtifXFgaofIFsdFMox2SxIbQ==
   dependencies:
     undici-types "~7.16.0"
 
@@ -892,9 +892,9 @@ callsites@^4.0.0:
   integrity sha512-kfzR4zzQtAE9PC7CzZsjl3aBNbXWuXiSeOCdLcPpBfGW8YuCqQHcRPFDbr/BPVmd3EEPVpuFzLyuT/cUhPr4OQ==
 
 caniuse-lite@^1.0.30001759:
-  version "1.0.30001769"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001769.tgz#1ad91594fad7dc233777c2781879ab5409f7d9c2"
-  integrity sha512-BCfFL1sHijQlBGWBMuJyhZUhzo7wer5sVj9hqekB/7xn0Ypy+pER/edCYQm4exbXj4WiySGp40P8UuTh6w1srg==
+  version "1.0.30001770"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001770.tgz#4dc47d3b263a50fbb243448034921e0a88591a84"
+  integrity sha512-x/2CLQ1jHENRbHg5PSId2sXq1CIO1CISvwWAj027ltMVG2UNgW+w9oH2+HzgEIRFembL8bUlXtfbBHR1fCg2xw==
 
 chalk@^1.1.1:
   version "1.1.3"
@@ -1114,9 +1114,9 @@ defaults@^1.0.3:
     clone "^1.0.2"
 
 devtools-protocol@*:
-  version "0.0.1581282"
-  resolved "https://registry.yarnpkg.com/devtools-protocol/-/devtools-protocol-0.0.1581282.tgz#7f289b837e052ad04eb16e9575877801c2b3716c"
-  integrity sha512-nv7iKtNZQshSW2hKzYNr46nM/Cfh5SEvE2oV0/SEGgc9XupIY5ggf84Cz8eJIkBce7S3bmTAauFD6aysMpnqsQ==
+  version "0.0.1585077"
+  resolved "https://registry.yarnpkg.com/devtools-protocol/-/devtools-protocol-0.0.1585077.tgz#53bb1b357ea42d441b2e6580c1463084d6353394"
+  integrity sha512-felwTo2l5VLTn+5mxuSDgr+2JCvcWun7H199YKV1cDhM/5IF7soujTI/VPOmlSgFSMSQGdsibjkqlyXg8uMUnQ==
 
 dom-serializer@^2.0.0:
   version "2.0.0"
