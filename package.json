@@ -8,7 +8,7 @@
         "playwright": "1.59.1"
     },
     "devDependencies": {
-        "@apify/tsconfig": "0.1.1",
+        "@apify/tsconfig": "0.1.2",
         "tsup": "8.5.1",
         "tsx": "4.21.0",
         "typescript": "5.9.3"
