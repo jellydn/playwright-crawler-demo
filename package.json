@@ -11,7 +11,7 @@
         "@apify/tsconfig": "0.1.2",
         "tsup": "8.5.1",
         "tsx": "4.22.1",
-        "typescript": "5.9.3"
+        "typescript": "6.0.3"
     },
     "scripts": {
         "start": "npm run start:dev",
