@@ -39,10 +39,10 @@
   resolved "https://registry.yarnpkg.com/@apify/timeout/-/timeout-0.3.5.tgz#6b8252ed674483018b8f547c4bd7cce8cc9b33e6"
   integrity sha512-3nuQXwxh2sKxBo5tgDoZWuZHiSpqrKg1+sJHjFSk8blhyX6I2FZzpfW7UaCELeYLZiSjWUPh2rXNrc3zLmJGJg==
 
-"@apify/tsconfig@0.1.2":
-  version "0.1.2"
-  resolved "https://registry.yarnpkg.com/@apify/tsconfig/-/tsconfig-0.1.2.tgz#5884508d273954d4063a7cd4263f08d3845cb34f"
-  integrity sha512-9dzEI1ZQ5+iM0k0fmPJrpdSSPUolVdeI1nDGFZMjD9UabTmIvjQrzui+1a25uy913AUEBrKTojEPj87pU9/Ekg==
+"@apify/tsconfig@0.2.0":
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/@apify/tsconfig/-/tsconfig-0.2.0.tgz#2b858c0b384b02cd2135202289031d3834becce2"
+  integrity sha512-0i6rF+hgXw6mQXhENYNTnP+Yo4WY38d698k/pk4rIpdCx/sSuEprR2N5WdtMaN628vCB+aZjff0jPN2EnQYtjQ==
 
 "@apify/utilities@^2.7.10":
   version "2.33.1"
