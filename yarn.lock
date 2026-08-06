@@ -2717,10 +2717,10 @@ tsup@8.5.1:
     tinyglobby "^0.2.11"
     tree-kill "^1.2.2"
 
-tsx@4.23.8:
-  version "4.23.8"
-  resolved "https://registry.yarnpkg.com/tsx/-/tsx-4.23.8.tgz#8ea0a0f3f74a5b1ff8a6d8c8ede1aa54697b2962"
-  integrity sha512-8W675THjbzfFmLOQzjDBIBna+WjqMGIxmSZ1mMc1+o9qoVsEuAgQu5j5ueLhau8inOkDu9OslVg0FmfBs1RIHw==
+tsx@4.23.9:
+  version "4.23.9"
+  resolved "https://registry.yarnpkg.com/tsx/-/tsx-4.23.9.tgz#34857961fcfb44f22d05ae905fa32dc182608c33"
+  integrity sha512-6q8uTORRGauQVjqMQnKUucLFoeXZAfw6zKvG35GLbdKWbLdeOtZ3H4mhyA5mxuUd2o2cRTskhj59nLLQseUvUw==
   dependencies:
     esbuild "~0.28.0"
   optionalDependencies:
